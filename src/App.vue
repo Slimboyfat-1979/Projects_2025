@@ -1,5 +1,7 @@
 <template>
     <h1>This is the initial code</h1>
+    <p>Here is some paragraph text</p>
+    <h3>Here is another change</h3>
 </template>
 
 <style>
