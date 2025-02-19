@@ -1,12 +1,19 @@
 <template>
-    <h1>This is the initial code</h1>
-    <p>Here is some paragraph text</p>
-    <h3>Here is another change</h3>
+   <Navigtion></Navigtion>
 </template>
 
+<script>
+    import Navigtion from './components/Navigtion.vue';
+    export default {
+        components: {
+            Navigtion
+        }
+    }
+</script>
+
 <style>
+
     * {
-        font-family: Arial, Helvetica, sans-serif;
         margin: 0;
     }
 </style>
