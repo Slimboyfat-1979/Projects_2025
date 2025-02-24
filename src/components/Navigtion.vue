@@ -10,7 +10,7 @@
         display: flex;
         flex-direction: column;
         width: 100vw;
-        background-color: rgb(221, 215, 207);
+        background-color: transparent;
         height: 50px;
         display: flex;
         justify-content: center;
